@@ -1,0 +1,23 @@
+/*
+Theme Name: zBoom
+Theme URI: https://ideeplive.github.io/lifewebtech/
+Author: deep
+Author URI:https://ideeplive.github.io/deepresume/
+Description: Single music WordPress Theme
+Version: 1.0
+Tags: Music, Song , simple Theme
+Textdomain: zboom
+*/
+
+
+.comment-author{
+height: 25px;
+width: 25px;
+}
+
+.right-sidebar ul{
+    background: #1e1e1e;
+    margin-left: 0 !important;
+    padding-left: 30px;
+
+}
